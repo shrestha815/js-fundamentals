@@ -21,3 +21,7 @@ else if (score >= 70) {
 else {
     console.log("Unfortunetely, you failed.");
 }
+
+let num = prompt("Enter Number: ");
+console.log("You Entered " + num );
+console.log(typeof fullName); // string
